@@ -1,0 +1,16 @@
+LICENCE.txt
+README.md
+setup.py
+tokeniser/__init__.py
+tokeniser/tokeniser.py
+tokeniser/data/count_tokenizer_0.5b_val_data.json
+tokeniser/data/count_tokenizer_1b_val_test_data.json
+tokeniser/data/ordered_tokenizer_0.5b_val_data.json
+tokeniser/data/ordered_tokenizer_1b_val_test_data.json
+tokeniser/data/unordered_tokenizer_0.5b_val_data.json
+tokeniser/data/unordered_tokenizer_1b_val_test_data.json
+tokeniser_py.egg-info/PKG-INFO
+tokeniser_py.egg-info/SOURCES.txt
+tokeniser_py.egg-info/dependency_links.txt
+tokeniser_py.egg-info/requires.txt
+tokeniser_py.egg-info/top_level.txt
