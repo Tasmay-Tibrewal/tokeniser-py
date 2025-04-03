@@ -438,7 +438,7 @@ class Tokeniser:
       return one_hot
 
     else:
-      raise Exception("Invalid op argument. Use 'np' for numpy or 'torch' for torch.")
+      raise ValueError("Invalid op argument. Use 'np' for numpy or 'torch' for torch.")
   
   def visualise_tokens(self, tokens: List[str]) -> None:
     """

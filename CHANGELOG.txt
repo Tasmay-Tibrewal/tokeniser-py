@@ -23,6 +23,11 @@
 ### Added
 - Changed the url to the actual GitHub repo.
 
+## [0.1.3] - 2025-04-04
+### Added
+- Changed the raise exception to raise value error, for better error message
+- Corrected the licence year to 2025.
+
 ### Notes
 - Built on top of a **custom token creation algorithm** not based on any standard BPE/WordPiece method
 - SlimPajama dataset used for vocab extraction
