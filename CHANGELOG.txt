@@ -28,6 +28,10 @@
 - Changed the raise exception to raise value error, for better error message
 - Corrected the licence year to 2025.
 
+## [0.1.4] - 2025-04-04
+### Added
+- Updated README.md
+
 ### Notes
 - Built on top of a **custom token creation algorithm** not based on any standard BPE/WordPiece method
 - SlimPajama dataset used for vocab extraction
